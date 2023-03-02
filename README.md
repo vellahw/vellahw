@@ -2,7 +2,7 @@
 
 <p align="center">✉︎ email: iamhanwon@gmail.com</p>
 <p align="center">☘︎ portfolio:
-  <a href="https://yeonyeon.tistory.com">
+  <a href="https://yeonyeon.tistory.com](https://www.canva.com/design/DAFb2TJ2ASg/2hUvfDNk4qw7XL6QGuU0jQ/view?utm_content=DAFb2TJ2ASg&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu">
   <img src="https://img.shields.io/badge/Click%20Me-75C29C?style=flat-   square&logoColor=white&link=https://www.canva.com/design/DAFb2TJ2ASg/2hUvfDNk4qw7XL6QGuU0jQ/view?utm_content=DAFb2TJ2ASg&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu"/>
   </a>
 </p>
