@@ -1,1 +1,1 @@
-<p style="align:center;">email: iamhanwon@gmail.com</p>
+<p align="center">✉︎ email: iamhanwon@gmail.com</p>
