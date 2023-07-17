@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB16C&height=200&section=header&text=vella-hub&fontSize=50&fontColor=fff&fontAlignY=37" />
 </p>
 
-<p align="center">✉︎ email: iamhanwon@gmail.com</p>
+<p align="center">✉︎ iamhanwon@gmail.com</p>
 
 <br/>
 
