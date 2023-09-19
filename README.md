@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFB16C&height=200&section=header&text=Vella-Hub&fontSize=50&fontColor=fff&fontAlignY=37" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFB16C&height=200&section=header&text=VellaHub&fontSize=50&fontColor=fff&fontAlignY=37" />
 </p>
 
 <p align="center">✉︎ iamhanwon@gmail.com</p>
