@@ -19,6 +19,12 @@
  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
 </p>
 <br/>
+<br/>
+<p align="center">
+ <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+ <img src="https://img.shields.io/badge/ORACLE-F80000?style=flat-square&logo=oracle&logoColor=white"/>
+</p>
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=FFB16C" />
