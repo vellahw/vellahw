@@ -19,7 +19,6 @@
  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
 </p>
 <br/>
-<br/>
 <p align="center">
  <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/>
 </p>
