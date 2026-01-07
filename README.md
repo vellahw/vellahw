@@ -22,7 +22,3 @@
 <p align="center">
  <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/>
 </p>
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=FFB16C" />
-</p>
