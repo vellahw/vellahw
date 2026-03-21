@@ -1,4 +1,4 @@
-## Hi there, Welcome to vellahub 🤝
+# Hi there, Welcome to vellahub 🤝
 <p> 
 <a href="mailto:iamhanwon@gmail.com">
 <img alt="Static Badge" src="https://img.shields.io/badge/GMAIL-%23EA4335?style=for-the-badge&logo=GMAIL&logoColor=%23ffffff&labelColor=%23EA4335">
@@ -9,7 +9,7 @@
 </p>
 <br/>
 
-## I work with...
+# I work with...
 <p>
 <img alt="Static Badge" src="https://img.shields.io/badge/REACT-%2361DAFB?style=for-the-badge&logo=REACT&logoColor=%23000000">
 <img alt="Static Badge" src="https://img.shields.io/badge/NEXT.JS-%23000000?style=for-the-badge&logo=nextdotjs&logoColor=%23FFFFFF">
