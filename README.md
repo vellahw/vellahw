@@ -12,7 +12,6 @@
 # I work with...
 <p>
 <img alt="Static Badge" src="https://img.shields.io/badge/REACT-%2361DAFB?style=for-the-badge&logo=REACT&logoColor=%23000000">
-<img alt="Static Badge" src="https://img.shields.io/badge/NEXT.JS-%23000000?style=for-the-badge&logo=nextdotjs&logoColor=%23FFFFFF">
 <img alt="Static Badge" src="https://img.shields.io/badge/JAVASCRIPT-%23F7DF1E?style=for-the-badge&logo=JAVASCRIPT&logoColor=%23000000">
 <img alt="Static Badge" src="https://img.shields.io/badge/TYPESCRIPT-%233178C6?style=for-the-badge&logo=TYPESCRIPT&logoColor=%23FFFFFF">
 </p>
